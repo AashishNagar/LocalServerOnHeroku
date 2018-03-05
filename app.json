@@ -1,0 +1,6 @@
+{
+	"name": "local server on heroku",
+	"description": "For testing only",
+	"repository": "https://github.com/AashishNagar/LocalServerOnHeroku",
+	"keywords": ["SBC", "universal links"]
+}
